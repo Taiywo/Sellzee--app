@@ -4,7 +4,7 @@ import Headcontent from './Headcontent'
 
 function Header() {
     return (
-        <div className="bg-gradient-to-r from-blue-400 to-blue-600 h-[51.25rem] ">
+        <div className=" bg-gradient-to-l from-blue-700 to-indigo-400 ">
             <Nav />
             <Headcontent/>
             </div>
