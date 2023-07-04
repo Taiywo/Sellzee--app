@@ -11,7 +11,7 @@ function Hero() {
                 <h2 className='opacity-80 text-orange-600 text-[17px] font-semibold uppercase leading-7 font-Inter'>Lorem ipsum dolor sit ame</h2>
                 <h2 className="w-[546px] h-[115px] text-zinc-950 text-[49px] font-bold leading-0">Simple Solutions for Complex Connections
                 </h2>
-                <h2 className="w-[530.63px] opacity-70 text-zinc-950 text-[16px] font-medium leading-relaxed">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed donec gravida
+                <h2 className="w-[530.63px] opacity-70 text-zinc-950 text-[16px] font-medium leading-relaxed ">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed donec gravida
                     feugiat neque, ipsum faucibus. Pharetra vel suspendisse mi odio a velit feugiat
                     sapien.</h2>
                     <div className='flex gap-10'>
