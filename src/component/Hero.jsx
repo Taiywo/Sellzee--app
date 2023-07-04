@@ -1,24 +1,26 @@
 import React from 'react'
-import Fedex from '../Asset/image 25.png'
-import Google from '../Asset/google-1-removebg-preview 1.png'
-import Ola from '../Asset/image 27.png'
-import Micro from '../Asset/new-Microsoft-logo-removebg-preview 1.png'
-import Amazon from '../Asset/539f3ffbecad044276726c01-removebg-preview 1.png'
-import Fedx from '../Asset/90a2c3b80d4b7a7599788bfeb9b848ce-removebg-preview 1.png'
-import Walmart from '../Asset/kisspng-logo-brand-walmart-desktop-wallpaper-image-walmart-to-offer-low-cost-checking-accounts-5b63eaa32fa612 1.png'
+import HeroImg from "../Asset/Group 186.png"
+import Analysis from "../Asset/Analysis.png"
+import Certificate from "../Asset/certificate.png"
 
 function Hero() {
     return (
-        <div className='m-[5rem] '>
-            <div className='flex  gap-20 justify-center wrap'>
-                <div className='shadow-2xl w-30 p-5' ><img src={Fedex} alt="" srcset="" /></div>
-                <div className='shadow-2xl w-30 p-5' > <img src={Google} alt="" srcset="" /></div>
-                <div className='shadow-2xl w-30 p-5' > <img src={Ola} alt="" srcset="" /></div>
-                <div className='shadow-2xl w-30 p-5' ><img src={Micro} alt="" srcset="" /></div>
-                <div className='shadow-2xl w-30 p-5' ><img src={Amazon} alt="" srcset="" /></div>
-                <div className='shadow-2xl w-30 p-5' ><img src={Fedx} alt="" srcset="" /></div>
-                <div className='shadow-2xl w-30 p-5' ><img src={Walmart} alt="" srcset="" /></div>
+        <div className='flex justify-center '>
+            <img src={HeroImg} alt="" srcset="" className='rounded-lg m-10'/>
+            <div className='flex flex-col gap-5 pt-[5rem]'>
+                <h2 className='opacity-80 text-orange-600 text-[17px] font-semibold uppercase leading-7 font-Inter'>Lorem ipsum dolor sit ame</h2>
+                <h2 className="w-[546px] h-[115px] text-zinc-950 text-[49px] font-bold leading-0">Simple Solutions for Complex Connections
+                </h2>
+                <h2 className="w-[530.63px] opacity-70 text-zinc-950 text-[16px] font-medium leading-relaxed">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed donec gravida
+                    feugiat neque, ipsum faucibus. Pharetra vel suspendisse mi odio a velit feugiat
+                    sapien.</h2>
+                    <div className='flex gap-10'>
+                        <img src={Analysis} alt="" srcset="" />
+                        <img src={Certificate} alt="" srcset="" />
+                    </div>
+                    <button className="w-[169px] h-[62px] px-[30px] py-[15px] bg-orange-600 rounded  text-white text-[20px] font-medium leading-loose">Learn More</button>
             </div>
+           
         </div>
     )
 }

@@ -1,9 +1,13 @@
 import React from 'react'
-import Hero from './Hero'
+import Partners from '../component/Partners'
+import Hero from "../component/Hero"
 
 function Main() {
   return (
-    <div><Hero/></div>
+    <div>
+      <Partners />
+      <Hero/>
+      </div>
   )
 }
 
