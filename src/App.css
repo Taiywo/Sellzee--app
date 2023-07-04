@@ -1,58 +1,9 @@
 * {
-  font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-.logo-name2 {
-  color: #91C4F2;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-
-.App {
-  display: relative;
-}
-
-.contain {
-  display: flex;
-  justify-content: center;
-}
-
-.search-title {
-  font-size: 1.4rem;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-input {
-  border: 1px solid #f7f7f7;
-  padding: 10px;
-  font-size: 16px;
-
-}
-input:focus {
-  outline: none;
-}
-
-.form-control {
-  border-top-left-radius: 10px;
-  border-bottom-left-radius: 10px;
- 
-}
-
-
-
-.search-icon {
-  width: 1.5rem;
-}
-
-
-form {
-  display: flex;
-  width: 100%;
-  justify-content: center;
-}
 
 
 

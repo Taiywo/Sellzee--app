@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'errorImage': "url('/src/component/error-img.png')"
+        'bgImg': "url('../src/Asset/bg.jpg')"
         
       },
       screens: {
