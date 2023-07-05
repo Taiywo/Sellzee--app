@@ -1,13 +1,19 @@
 import React from 'react'
-import BgImg from '../Asset/bgImg.png'
 import RateBG from '../Asset/rating.png'
+import "../App"
 
 function Rating() {
-  return (
-    <div className="bg-bgImg bg-cover bg-stone-950 w-52 bg-no-repeat">
-        
-        <img src={RateBG} alt="" srcset="" className='absolute top-8 left-96' />
+  return (<div className=''>
+    <div className='bgImage h-[737.67px] bg-no-repeat bg-cover bg-center' >
+        <img src={RateBG} alt="" srcset="" className='absolute pl-[23rem]'  />
     </div>
+    <div className="w-[1598.46px] h-[737.67px] bg-stone-50 m-auto">
+
+
+    </div>
+  </div>
+    
+
   )
 }
 
