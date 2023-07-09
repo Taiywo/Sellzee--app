@@ -7,25 +7,20 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-       
+        'bgImg': "url('../src/Asset/bg.jpg')"
         
       },
       screens: {
-        's': '640px',
-        'sm': '640px',
-        'md': '768px',
-        'lg': '1024px',
-        'xl': '1280px',
+       
       },
       colors: {
-        'primary':  '#8D3F8D',
-        'secondary':  '#A060A0',
+        
       },
       fontFamily: {
         Inter:['Inter', "sans-serif"]
       },
     },
   },
-  plugins: [],
+  plugins: [require("daisyui")],
 }
 

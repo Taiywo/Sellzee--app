@@ -2,13 +2,17 @@ import React from 'react'
 import Partners from '../component/Partners'
 import Hero from "../component/Hero"
 import Rating from './Rating'
+import { Pricing } from './Pricing'
+
 
 function Main() {
   return (
-    <div>
+    <div className=' bg-white'>
       <Partners />
-      <Hero/>
+      <Hero />
       <Rating/>
+      <Pricing/>
+      
       </div>
   )
 }

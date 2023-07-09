@@ -9,7 +9,8 @@ import Walmart from '../Asset/kisspng-logo-brand-walmart-desktop-wallpaper-image
 
 function Partners() {
     return (
-        <div className='m-[5rem] flex flex-col gap-11'>
+        <div className='m-[5rem] flex flex-col gap-11 bg-white
+        '>
             <div className='flex  gap-20 justify-center wrap'>
                 <div className='shadow-2xl w-30 p-5' ><img src={Fedex} alt="" srcset="" /></div>
                 <div className='shadow-2xl w-30 p-5' > <img src={Google} alt="" srcset="" /></div>
