@@ -3,7 +3,7 @@ import HeroImg from "../Asset/Pixel True Mockup 1.png"
 
 function Headcontent() {
     return (
-        <div className='flex mt-[81.46px] text-white justify-between pr-[70.44px] pl-[233px] items-center'>
+        <div className='flex mt-[51.46px] text-white justify-between px-[334px] items-center'>
             <div className='flex flex-col gap-4'>
                 <div className="text-white text-[20px] font-semibold uppercase leading-loose tracking-widest font-Inter">Inspiration Technology.</div>
                 <div className='w-[464px] h-[140.96px]'>
