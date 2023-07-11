@@ -72,7 +72,7 @@ function Rating() {
                 </div>
                 <div className='absolute flex flex-col items-end left-[25rem] text-left gap-10 flex-wrap w-[655px] shadow-2xl h-[236px] bg-white pt-10 pr-20'>
                   <img src={Rated} alt="" />
-                  <p className="w-[515px] h-[74px] text-zinc-950 text-[16px] font-normal leading-relaxed">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit nisl, tincidunt commodo sit. Et, purus lectus odio cursus placerat leo, non etiam. Neque at leo risus orci, </p>
+                  <p className="w-[515px] h-[74px] text-zinc-950 text-[16px] font-normal leading-relaxed pt-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit nisl, tincidunt commodo sit. Et, purus lectus odio cursus placerat leo, non etiam. Neque at leo risus orci, </p>
                 </div>
               </div>
             </div>
@@ -91,7 +91,7 @@ function Rating() {
                 </div>
                 <div className='absolute flex flex-col items-end left-[25rem] text-left gap-10 flex-wrap w-[655px] shadow-2xl h-[236px] bg-white pt-10 pr-20'>
                   <img src={Rated} alt="" />
-                  <p className="w-[515px] h-[74px] text-zinc-950 text-[16px] font-normal leading-relaxed">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit nisl, tincidunt commodo sit. Et, purus lectus odio cursus placerat leo, non etiam. Neque at leo risus orci, </p>
+                  <p className="w-[515px] h-[74px] text-zinc-950 text-[16px] font-normal leading-relaxed pt-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit nisl, tincidunt commodo sit. Et, purus lectus odio cursus placerat leo, non etiam. Neque at leo risus orci, </p>
                 </div>
               </div>
             </div>

@@ -173,10 +173,11 @@ export const Pricing = () => {
                 </div>}
 
             </section>
-            <section className='relative'>
-                <div className="w-[890.92px] h-[386.11px] opacity-30 bg-rose-100 rounded-[30px] absolute bottom-28 left-[37rem]  " />
-                <div className="w-[998.99px] h-[405px] opacity-40 bg-rose-100 rounded-[30px] absolute left-[33rem] bottom-[3rem] " />
-                <div className="w-[1200px] h-[405px] bg-rose-100 rounded-[30px] mt-[50rem] m-auto p-10 flex flex-col items-center relative gap-10 ">
+            <section>
+            <div className="w-[998.99px] h-[405px] opacity-40 bg-[#FDEEE7] rounded-[30px] absolute left-[53rem] bottom-[20rem] " />
+                <div className="w-[890.92px] h-[386.11px] opacity-30 bg-[#FDEEE7] rounded-[30px] absolute bottom-96 left-[57rem]  " />
+
+                <div className="w-[1200px] h-[405px] bg-[#FDEEE7] rounded-[30px] mt-[50rem] m-auto p-10 flex flex-col items-center relative gap-10 ">
 
                     <h5 className="w-[155px] h-[23px] text-center text-orange-600 text-[20px] font-bold leading-loose tracking-widest">NEWSLETTER</h5>
                     <p className="text-center text-zinc-950 text-[39px] font-semibold leading-10">We Offer Every Month 20% Off

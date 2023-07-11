@@ -4,7 +4,7 @@ import Logo from "../Asset/logo.png"
 function Nav(Navlink) {
   const {home, about, contact, testimonial, pricing} = Navlink
   return (
-    <div className='flex  justify-evenly -ml-60 items-center py-[50px]'>
+    <div className='flex  justify-evenly mr-52 items-center py-[50px]'>
       <img src="" alt="" srcset="" />
         <div>
            <img src={Logo} alt=''/>
