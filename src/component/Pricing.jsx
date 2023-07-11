@@ -50,23 +50,23 @@ export const Pricing = () => {
                         <h2 className="w-[232px] h-[115px] text-center text-blue-700 text-[96.39506530761719px] font-bold pt-7 leading-10">$239</h2>
                         <h2 className="text-center pb-4"><span className="text-zinc-950 text-[20px] font-medium leading-loose">YEARLY</span><span className="text-zinc-950 text-[20px] font-normal leading-loose"> PACK</span></h2>
                         <div className='flex flex-col items-start gap-4'>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">256 GB SSD STORE</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">FULL UI KIT DOWNLOAD</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">PUBLIC API</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">FULL UI PACK DOWNLOAD</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">FULL UI PACK DOWNLOAD</h4>
                             </div>
@@ -81,23 +81,23 @@ export const Pricing = () => {
                         <h2 className="w-[232px] h-[115px] text-center text-blue-700 text-[96.39506530761719px] font-bold pt-7 leading-10">$439</h2>
                         <h2 className="text-center  pb-4"><span className="text-zinc-950 text-[20px] font-medium leading-loose">YEARLY</span><span className="text-zinc-950 text-[20px] font-normal leading-loose"> PACK</span></h2>
                         <div className='flex flex-col items-start gap-4'>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">256 GB SSD STORE</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">FULL UI KIT DOWNLOAD</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">PUBLIC API</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">FULL UI PACK DOWNLOAD</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">FULL UI PACK DOWNLOAD</h4>
                             </div>
@@ -114,23 +114,23 @@ export const Pricing = () => {
                         <h2 className="w-[232px] h-[115px] text-center text-blue-700 text-[96.39506530761719px] font-bold leading-10 pt-7">$39</h2>
                         <h2 className="text-center  pb-4 "><span className="text-zinc-950 text-[20px] font-medium leading-loose">MONTHLY</span><span className="text-zinc-950 text-[20px] font-normal leading-loose"> PACK</span></h2>
                         <div className='flex flex-col  gap-4'>
-                            <div className=" flex items-center justify-start m-auto gap-5">
+                            <div className=" flex items-center justify-start  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">256 GB SSD STORE</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">FULL UI KIT DOWNLOAD</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">PUBLIC API</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">FULL UI PACK DOWNLOAD</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">FULL UI PACK DOWNLOAD</h4>
                             </div>
@@ -144,24 +144,24 @@ export const Pricing = () => {
                         <h2 className="text-center text-zinc-950 text-[31px] font-semibold leading-10">ELITE</h2>
                         <h2 className="w-[232px] h-[115px] text-center text-blue-700 text-[96.39506530761719px] font-bold leading-10 pt-7">$79</h2>
                         <h2 className="text-center  pb-4"><span className="text-zinc-950 text-[20px] font-medium leading-loose">MONTHLY</span><span className="text-zinc-950 text-[20px] font-normal leading-loose"> PACK</span></h2>
-                        <div className='flex flex-col items-start gap-4'>
-                            <div className=" flex items-center m-auto gap-5">
+                        <div className='flex flex-col gap-4 w-72'>
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">256 GB SSD STORE</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">FULL UI KIT DOWNLOAD</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">PUBLIC API</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">FULL UI PACK DOWNLOAD</h4>
                             </div>
-                            <div className=" flex items-center m-auto gap-5">
+                            <div className=" flex items-center  gap-5">
                                 <img src={MArk} alt='' />
                                 <h4 className="text-center text-zinc-950 text-[16px] font-medium leading-relaxed">FULL UI PACK DOWNLOAD</h4>
                             </div>
@@ -177,7 +177,7 @@ export const Pricing = () => {
             <div className="w-[998.99px] h-[405px] opacity-40 bg-[#FDEEE7] rounded-[30px] absolute left-[53rem] bottom-[20rem] " />
                 <div className="w-[890.92px] h-[386.11px] opacity-30 bg-[#FDEEE7] rounded-[30px] absolute bottom-96 left-[57rem]  " />
 
-                <div className="w-[1200px] h-[405px] bg-[#FDEEE7] rounded-[30px] mt-[50rem] m-auto p-10 flex flex-col items-center relative gap-10 ">
+                <div className="w-[1200px] h-[405px] bg-[#FDEEE7] rounded-[30px] mt-[50rem]  p-10 flex flex-col items-center relative gap-10 ">
 
                     <h5 className="w-[155px] h-[23px] text-center text-orange-600 text-[20px] font-bold leading-loose tracking-widest">NEWSLETTER</h5>
                     <p className="text-center text-zinc-950 text-[39px] font-semibold leading-10">We Offer Every Month 20% Off
