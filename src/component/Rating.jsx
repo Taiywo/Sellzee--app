@@ -15,7 +15,7 @@ import "../App"
 function Rating() {
   return (
     <div>
-      <div className='bgImage h-[437.67px] bg-no-repeat bg-cover bg-center' >
+      <div className='- h-[437.67px] bg-no-repeat bg-cover bg-center' >
         <img src={RateBG} alt="" srcset="" className='pl-[23rem]' />
       </div>
       <section>
